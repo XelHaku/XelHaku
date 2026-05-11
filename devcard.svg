@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="812" viewBox="0 0 495 812">
+  <style>
+    .header { font: 600 18px "Segoe UI", Ubuntu, "Helvetica Neue", sans-serif; fill: #e6edf3; }
+    .subheader { font: 400 14px "Segoe UI", Ubuntu, "Helvetica Neue", sans-serif; fill: #8b949e; }
+    .body { font: 400 12px "Segoe UI", Ubuntu, "Helvetica Neue", sans-serif; fill: #e6edf3; }
+    .small { font: 400 11px "Segoe UI", Ubuntu, "Helvetica Neue", sans-serif; fill: #8b949e; }
+    .label { font: 600 13px "Segoe UI", Ubuntu, "Helvetica Neue", sans-serif; fill: #e6edf3; }
+    .mono { font: 400 11px "SF Mono", "Cascadia Code", Consolas, monospace; fill: #8b949e; }
+    .accent { fill: #58a6ff; }
+    @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+    .section { animation: fadeIn 0.3s ease-in; }
+  </style>
+  <rect width="495" height="812" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <g class="section" transform="translate(25, 25)">
+    <circle cx="22" cy="22" r="22" fill="#58a6ff" opacity="0.15"/>
+    <text x="22" y="27" text-anchor="middle" style="font: 600 16px &apos;Segoe UI&apos;, Ubuntu, &apos;Helvetica Neue&apos;, sans-serif; fill: #58a6ff;">X</text>
+    <text x="54" y="18" class="header">Xel</text>
+    <text x="54" y="36" class="subheader">@XelHaku</text>
+    <rect x="54" y="44" rx="8" ry="8" width="72" height="20" fill="#58a6ff" opacity="0.15"/>
+    <text x="62" y="58" style="font: 600 11px &apos;Segoe UI&apos;, Ubuntu, &apos;Helvetica Neue&apos;, sans-serif; fill: #58a6ff;">Frontend</text>
+    <text x="0" y="86" class="body">physicist. programmer. tinkerer.</text>
+    <text x="0" y="108" class="small">Mexico · 7 followers</text>
+  </g>
+  <g class="section" transform="translate(25, 153)">
+    <text x="0" y="14" class="label">Languages</text>
+    <text x="445" y="14" text-anchor="end" class="small">98% logic code</text>
+    <rect x="0.0" y="24" width="176.2" height="8" rx="1" fill="#00ADD8"/>
+    <rect x="176.2" y="24" width="103.7" height="8" rx="1" fill="#f1e05a"/>
+    <rect x="279.9" y="24" width="103.2" height="8" rx="1" fill="#178600"/>
+    <rect x="383.1" y="24" width="25.4" height="8" rx="1" fill="#3178c6"/>
+    <rect x="408.5" y="24" width="18.7" height="8" rx="1" fill="#f1e05a"/>
+    <rect x="427.2" y="24" width="5.3" height="8" rx="1" fill="#563d7c"/>
+    <rect x="432.5" y="24" width="3.1" height="8" rx="1" fill="#701516"/>
+    <rect x="435.7" y="24" width="2.7" height="8" rx="1" fill="#dea584"/>
+    <circle cx="5.0" cy="46" r="4" fill="#00ADD8"/>
+    <text x="13.0" y="50" class="small">Go 39.6%</text>
+    <circle cx="73.0" cy="46" r="4" fill="#f1e05a"/>
+    <text x="81.0" y="50" class="small">Solidity 23.3%</text>
+    <circle cx="180.0" cy="46" r="4" fill="#178600"/>
+    <text x="188.0" y="50" class="small">C# 23.2%</text>
+    <circle cx="248.0" cy="46" r="4" fill="#3178c6"/>
+    <text x="256.0" y="50" class="small">TypeScript 5.7%</text>
+    <circle cx="368.0" cy="46" r="4" fill="#f1e05a"/>
+    <text x="376.0" y="50" class="small">JavaScript 4.2%</text>
+    <circle cx="5" cy="62" r="4" fill="#563d7c"/>
+    <text x="13" y="66" class="small">CSS 1.2%</text>
+  </g>
+  <g class="section" transform="translate(25, 247)">
+    <text x="0" y="14" class="label">Stack</text>
+    <rect x="0.0" y="26" rx="10" ry="10" width="44" height="22" fill="#58a6ff" opacity="0.1"/>
+    <text x="8.0" y="41" class="small">Hono</text>
+    <rect x="50.0" y="26" rx="10" ry="10" width="65" height="22" fill="#58a6ff" opacity="0.1"/>
+    <text x="58.0" y="41" class="small">Next.js</text>
+    <rect x="121.0" y="26" rx="10" ry="10" width="51" height="22" fill="#58a6ff" opacity="0.1"/>
+    <text x="129.0" y="41" class="small">React</text>
+    <rect x="178.0" y="26" rx="10" ry="10" width="51" height="22" fill="#58a6ff" opacity="0.1"/>
+    <text x="186.0" y="41" class="small">Tokio</text>
+    <rect x="235.0" y="26" rx="10" ry="10" width="51" height="22" fill="#58a6ff" opacity="0.1"/>
+    <text x="243.0" y="41" class="small">Sharp</text>
+    <rect x="292.0" y="26" rx="10" ry="10" width="100" height="22" fill="#58a6ff" opacity="0.1"/>
+    <text x="300.0" y="41" class="small">Tailwind CSS</text>
+    <rect x="0.0" y="52" rx="10" ry="10" width="51" height="22" fill="#58a6ff" opacity="0.1"/>
+    <text x="8.0" y="67" class="small">Axios</text>
+    <rect x="57.0" y="52" rx="10" ry="10" width="65" height="22" fill="#58a6ff" opacity="0.1"/>
+    <text x="65.0" y="67" class="small">GraphQL</text>
+    <rect x="128.0" y="52" rx="10" ry="10" width="65" height="22" fill="#58a6ff" opacity="0.1"/>
+    <text x="136.0" y="67" class="small">Zustand</text>
+    <rect x="199.0" y="52" rx="10" ry="10" width="86" height="22" fill="#58a6ff" opacity="0.1"/>
+    <text x="207.0" y="67" class="small">node-fetch</text>
+    <rect x="291.0" y="52" rx="10" ry="10" width="72" height="22" fill="#58a6ff" opacity="0.1"/>
+    <text x="299.0" y="67" class="small">Mongoose</text>
+    <rect x="369.0" y="52" rx="10" ry="10" width="58" height="22" fill="#58a6ff" opacity="0.1"/>
+    <text x="377.0" y="67" class="small">dotenv</text>
+    <rect x="0.0" y="78" rx="10" ry="10" width="65" height="22" fill="#58a6ff" opacity="0.1"/>
+    <text x="8.0" y="93" class="small">PostCSS</text>
+  </g>
+  <g class="section" transform="translate(25, 371)">
+    <text x="0" y="14" class="label">Quality Score: 26%</text>
+    <text x="0" y="36" class="small">Tests</text>
+    <rect x="55" y="26" width="120" height="12" rx="3" fill="#30363d"/>
+    <rect x="55" y="26" width="17.2" height="12" rx="3" fill="#f85149"/>
+    <text x="183" y="36" class="small">14%</text>
+    <text x="0" y="54" class="small">CI/CD</text>
+    <rect x="55" y="44" width="120" height="12" rx="3" fill="#30363d"/>
+    <rect x="55" y="44" width="8.5" height="12" rx="3" fill="#f85149"/>
+    <text x="183" y="54" class="small">7%</text>
+    <text x="0" y="72" class="small">Docs</text>
+    <rect x="55" y="62" width="120" height="12" rx="3" fill="#30363d"/>
+    <rect x="55" y="62" width="102.8" height="12" rx="3" fill="#3fb950"/>
+    <text x="183" y="72" class="small">86%</text>
+    <text x="0" y="90" class="small">License</text>
+    <rect x="55" y="80" width="120" height="12" rx="3" fill="#30363d"/>
+    <rect x="55" y="80" width="25.7" height="12" rx="3" fill="#f85149"/>
+    <text x="183" y="90" class="small">21%</text>
+    <text x="0" y="108" class="small">Linter</text>
+    <rect x="55" y="98" width="120" height="12" rx="3" fill="#30363d"/>
+    <rect x="55" y="98" width="0.0" height="12" rx="3" fill="#f85149"/>
+    <text x="183" y="108" class="small">0%</text>
+  </g>
+  <g class="section" transform="translate(25, 507)">
+    <text x="0" y="14" class="label">Focus Areas</text>
+    <rect x="0.0" y="26" rx="12" ry="12" width="156" height="24" fill="#58a6ff" opacity="0.12"/>
+    <text x="8.0" y="42" style="font: 600 11px &apos;Segoe UI&apos;, Ubuntu, &apos;Helvetica Neue&apos;, sans-serif; fill: #58a6ff;">Frontend Development</text>
+    <rect x="164.0" y="26" rx="12" ry="12" width="128" height="24" fill="#58a6ff" opacity="0.12"/>
+    <text x="172.0" y="42" style="font: 600 11px &apos;Segoe UI&apos;, Ubuntu, &apos;Helvetica Neue&apos;, sans-serif; fill: #58a6ff;">Machine Learning</text>
+    <rect x="300.0" y="26" rx="12" ry="12" width="86" height="24" fill="#58a6ff" opacity="0.12"/>
+    <text x="308.0" y="42" style="font: 600 11px &apos;Segoe UI&apos;, Ubuntu, &apos;Helvetica Neue&apos;, sans-serif; fill: #58a6ff;">Full Stack</text>
+    <rect x="0.0" y="54" rx="12" ry="12" width="149" height="24" fill="#58a6ff" opacity="0.12"/>
+    <text x="8.0" y="70" style="font: 600 11px &apos;Segoe UI&apos;, Ubuntu, &apos;Helvetica Neue&apos;, sans-serif; fill: #58a6ff;">Systems Programming</text>
+    <rect x="157.0" y="54" rx="12" ry="12" width="58" height="24" fill="#58a6ff" opacity="0.12"/>
+    <text x="165.0" y="70" style="font: 600 11px &apos;Segoe UI&apos;, Ubuntu, &apos;Helvetica Neue&apos;, sans-serif; fill: #58a6ff;">DevOps</text>
+  </g>
+  <g class="section" transform="translate(25, 609)">
+    <text x="0" y="14" class="label">Top Projects</text>
+    <text x="0" y="40" style="font-weight: 600;" class="body">★ stylus_arenaton_smart_contracts_tests</text>
+    <text x="200" y="40" class="small">★ 3</text>
+    <circle cx="270" cy="36" r="4" fill="#dea584"/>
+    <text x="278" y="40" class="small">Rust</text>
+    <text x="0" y="62" style="font-weight: 400;" class="body">GravityPlayground</text>
+    <text x="200" y="62" class="small">★ 2</text>
+    <circle cx="270" cy="58" r="4" fill="#178600"/>
+    <text x="278" y="62" class="small">C#</text>
+    <text x="0" y="84" style="font-weight: 400;" class="body">IsJustABall</text>
+    <text x="200" y="84" class="small">★ 2</text>
+    <circle cx="270" cy="80" r="4" fill="#178600"/>
+    <text x="278" y="84" class="small">C#</text>
+    <text x="0" y="106" style="font-weight: 400;" class="body">arenaton-smart-contracts</text>
+    <text x="200" y="106" class="small">★ 1</text>
+    <circle cx="270" cy="102" r="4" fill="#00ADD8"/>
+    <text x="278" y="106" class="small">Go</text>
+    <text x="0" y="128" style="font-weight: 400;" class="body">stylus_vault</text>
+    <text x="200" y="128" class="small"></text>
+    <circle cx="270" cy="124" r="4" fill="#dea584"/>
+    <text x="278" y="128" class="small">Rust</text>
+  </g>
+  <g class="section" transform="translate(25, 767)">
+    <text x="0" y="14" class="mono">Generated by devcard · 2026-05-11</text>
+  </g>
+</svg>
